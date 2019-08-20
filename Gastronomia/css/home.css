@@ -1,0 +1,18 @@
+.logo-img {
+    width: 30%;
+}
+
+.post-img {
+    width: 80%;
+    height: auto;
+}
+
+.image-usr {
+    width: 40px;
+    height: 40px;
+}
+
+.comentario {
+    width: 100%;
+    margin-top: 10px;
+}
